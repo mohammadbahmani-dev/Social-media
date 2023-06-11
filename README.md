@@ -1,1 +1,2 @@
-# Social-media-Website-using-HTMK--CSS-and-JS
+Vidagram Social Media Website
+You can visit this website: https://mandegar20.github.io/Social-media/
